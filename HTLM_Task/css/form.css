@@ -1,0 +1,33 @@
+.enquiry th {
+  height: 7rem;
+  width: 150px;
+  text-align: right;
+}
+
+.enquiry td {
+  width: 480px;
+  padding-left: 2rem;
+}
+
+.enquiry {
+  border-collapse: collapse;
+}
+
+.construct {
+  width: 480px;
+}
+
+input.submit_button {
+  font-size: 2rem;
+  color: #fff;
+  background-color: #005fff;
+  border-style: none;
+}
+
+input.submit_button:hover {
+  opacity: 0.5;
+}
+
+p {
+  padding-left: 30rem;
+}
