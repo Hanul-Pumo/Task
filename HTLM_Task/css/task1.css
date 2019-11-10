@@ -99,15 +99,15 @@ ul.top_menu {
   width: 100%;
   position: absolute;
   bottom: 0;
-  display: table;
 }
 
 .footer p {
   font-size: 1rem;
   color: #fff;
   text-align: center;
+  display: inline-block;
+  position: relative;
   vertical-align: middle;
-  display: table-cell;
 }
 
 .container {
