@@ -104,10 +104,15 @@ ul.top_menu {
 .footer p {
   font-size: 1rem;
   color: #fff;
-  text-align: center;
-  display: inline-block;
-  position: relative;
-  vertical-align: middle;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  height: 100%;
+  width: 100%;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 
 .container {
